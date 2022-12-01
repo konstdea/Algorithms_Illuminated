@@ -1,4 +1,4 @@
-#Algorithms Illuminated
+# Algorithms Illuminated
 
 The repository is created to practice writing algorithms and solving exercises.
 
