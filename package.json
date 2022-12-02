@@ -1,0 +1,25 @@
+{
+  "name": "algorithms_illuminated",
+  "version": "1.0.0",
+  "description": "The repository is created to practice writing algorithms and solving exercises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konstdea/algorithms-illuminated.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konstdea/algorithms-illuminated/issues"
+  },
+  "homepage": "https://github.com/konstdea/algorithms-illuminated#readme",
+  "devDependencies": {
+    "@types/jest": "^29.2.3",
+    "jest": "^29.3.1",
+    "ts-jest": "^29.0.3"
+  }
+}
